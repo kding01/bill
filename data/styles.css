@@ -78,6 +78,8 @@
 .radio_button {
   text-align:left;
 }
+._流程图形状 {
+}
 .table_cell {
 }
 .form_hint {
@@ -106,5 +108,7 @@
 }
 .checkbox {
   text-align:left;
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }

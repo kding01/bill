@@ -1748,3 +1748,33 @@
   text-transform:none;
   visibility:hidden;
 }
+#u1295_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+}
+#u1295 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:5px;
+  width:30px;
+  height:30px;
+  display:flex;
+}
+#u1295 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1295_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
